@@ -1,6 +1,6 @@
 # ClusteringClassifiers
 Code for the paper "Clustering Classifiers Learnt from Local Datasets Based on Cosine Similarity"
-Written in Octave
+[Written in Octave]
 
 We used logistic regression to estimate the hyperplane of the data from two different classes. Most of the implementations are borrowed from the programming exercise of the Coursera lecture "Machine Learning" (https://www.coursera.org/learn/machine-learning by Prof. Andrew Ng).
 Generally, support vector machine (SVM) works better than logistic regression in learning boundaries, so you can try SVM if you like.
